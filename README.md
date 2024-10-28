@@ -51,6 +51,4 @@ python main.py
 
 ## Contributions
 
-Contributions
-
 This project is open to new ideas and contributions! If you have suggestions for additional analyses, please feel free to open an issue or submit a pull request. Let's make this project a comprehensive tool for exploring Messenger chats together! Let me know if you'd like any adjustments or additional details!
